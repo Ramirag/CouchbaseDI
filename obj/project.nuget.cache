@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKtKkSLi+nyVOX4+J8d6AttBowL6MnRDnDlkhtHCHZYF1FACeva/bkqXa8DT6Kt02t7TKofE8mhYk/yk+CArOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ivant\\source\\repos\\CouchbaseDI\\CouchbaseDI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ivant\\.nuget\\packages\\couchbase.extensions.dependencyinjection\\3.0.3.729\\couchbase.extensions.dependencyinjection.3.0.3.729.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\couchbasenetclient\\3.0.3\\couchbasenetclient.3.0.3.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\dnsclient\\1.3.2\\dnsclient.1.3.2.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration\\2.1.1\\microsoft.extensions.configuration.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration.abstractions\\2.1.1\\microsoft.extensions.configuration.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.configuration.binder\\2.1.1\\microsoft.extensions.configuration.binder.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.dependencyinjection.abstractions\\2.1.1\\microsoft.extensions.dependencyinjection.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.options\\2.1.1\\microsoft.extensions.options.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.extensions.primitives\\2.1.1\\microsoft.extensions.primitives.2.1.1.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\system.linq.async\\4.0.0\\system.linq.async.4.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.7.0\\system.runtime.compilerservices.unsafe.4.7.0.nupkg.sha512",
+    "C:\\Users\\Ivant\\.nuget\\packages\\system.threading.tasks.dataflow\\4.11.0\\system.threading.tasks.dataflow.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
